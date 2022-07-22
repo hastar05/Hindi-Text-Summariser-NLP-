@@ -1,0 +1,1 @@
+Simple Python implementation to summarise Hindi news articles.
